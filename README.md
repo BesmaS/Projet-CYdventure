@@ -14,7 +14,9 @@ Nous avons créer une histoire simple mais originale, tout en respectant la dead
 
 Système de sauvegarde fonctionnel.
 # Problèmes rencontrés
-On a eu du mal a trouver le format de fichier qui nous permettais de pouvoir les traiter et les utilisés comme on le voulait 
+On a eu du mal a trouver le format de fichier adapté a nos besoin 
+
+
 # Instructions
 sur le menu d'acceuil:
 
