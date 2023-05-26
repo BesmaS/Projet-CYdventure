@@ -29,3 +29,6 @@ Durant la partie:
 0 : Choisir l'option 0.
 1 : Choisir l'option 1.
 2: Sauvegarder votre progression.
+
+# Fonctionnement du programme
+  # Histoire
