@@ -1,5 +1,9 @@
 # Projet-CYdventure
-Saidi Besma/Attia Karin/ Bineta
+| Nom             | Prénom | Groupe|
+|---              |---     |---    |
+| Saidi           | Besma  | MI2   |
+| Attia           | Karin  | MI2   |
+|                 |Bineta  | MI2   |
 
 # Introduction
 Le jeu que nous avons réalisé s'inspire d'un type de livres appelé "Livre dont vous êtes le héros". Vos choix auront un impact sur le cours de votre aventure. 
@@ -31,4 +35,5 @@ Durant la partie:
 2: Sauvegarder votre progression.
 
 # Fonctionnement du programme
-  # Histoire
+  ## Histoire
+Pour
