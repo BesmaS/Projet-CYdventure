@@ -24,7 +24,7 @@ Le jeu que nous avons réalisé s'inspire d'un type de livres appelé "Livre don
 # Instructions
 sur le menu d'acceuil:
 
-1: pour kancer une nouvelle partie.
+1: pour lancer une nouvelle partie.
 2: Pour continuer une partie qui a ete sauvegarder.
 3 : Pour quitter le jeu.
 
