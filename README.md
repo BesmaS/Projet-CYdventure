@@ -10,15 +10,15 @@ Le jeu que nous avons réalisé s'inspire d'un type de livres appelé "Livre don
 
 # Objectif réussis
 
-Écriture du scénario.
+- Écriture du scénario.
 
-Nous avons implémenter un système de sauvegarde pour permettre au joueur de sauvegarder sa progression dans le jeu et de reprendre là où il s'était arrêté lorsqu'il le souhaitera.
+- Nous avons implémenter un système de sauvegarde pour permettre au joueur de sauvegarder sa progression dans le jeu et de reprendre là où il s'était arrêté lorsqu'il le souhaitera.
 
-Nous avons créer une histoire simple mais originale, tout en respectant la deadline. Nous prévoyons d'implémenter plusieurs fins possibles pour permettre une plus grande diversité dans les choix et les actions du joueur. L'histoire sera élaborée de manière à ce qu'elle soit immersive et captivante, tout en restant accessible à tous les types de joueurs
+- Nous avons créer une histoire simple mais originale, tout en respectant la deadline. Nous prévoyons d'implémenter plusieurs fins possibles pour permettre une plus grande diversité dans les choix et les actions du joueur. L'histoire sera élaborée de manière à ce qu'elle soit immersive et captivante, tout en restant accessible à tous les types de joueurs
 
-Système de sauvegarde fonctionnel.
+- Système de sauvegarde fonctionnel.
 # Problèmes rencontrés
-On a eu du mal a trouver le format de fichier adapté a nos besoin 
+- On a eu du mal a trouver le format de fichier adapté a nos besoin 
 
 
 # Instructions
