@@ -22,17 +22,17 @@ Le jeu que nous avons réalisé s'inspire d'un type de livres appelé "Livre don
 
 
 # Instructions
-sur le menu d'acceuil:
+Sur le menu d'acceuil:
 
-1: pour lancer une nouvelle partie.
-2: Pour continuer une partie qui a ete sauvegarder.
-3 : Pour quitter le jeu.
+- 1: pour lancer une nouvelle partie.
+- 2: Pour continuer une partie qui a ete sauvegarder.
+- 3 : Pour quitter le jeu.
 
 Durant la partie:
 
-0 : Choisir l'option 0.
-1 : Choisir l'option 1.
-2: Sauvegarder votre progression.
+- 0 : Choisir l'option 0.
+- 1 : Choisir l'option 1.
+- 2: Sauvegarder votre progression.
 
 # Fonctionnement du programme
   ## Histoire
