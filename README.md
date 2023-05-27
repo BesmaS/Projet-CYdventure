@@ -37,5 +37,6 @@ Durant la partie:
 
 # Fonctionnement du programme
 lancer le programme 
+´´´make´´´
   ## Histoire
 Pour
