@@ -1,0 +1,5 @@
+Vous arrivez a la soiree, il y a de la bonne musique et vous vous amusez bien. Vous commencez a avoir soif vous allez donc prendre un verre .@
+
+Vous voyez pres du buffet votre ex et votre meilleure copine ensemble. @
+Vous ne faites rien. #part2.txt%
+Vous choisissez de partir de la soiree . #fin1.txt%

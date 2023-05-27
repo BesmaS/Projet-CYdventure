@@ -1,0 +1,4 @@
+Vous avez besoin d'etre toute seule pour vous calmer et reflichir.@
+Vous trouvez un endroit tranquille.@
+Vous decidez de vous diriger vers la cave, vous y apercevez votre ex. #fin5.txt%
+Vous sechez vos larmes et retournez a la soiree comme si de rien n'etait. #part5.txt%

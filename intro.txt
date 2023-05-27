@@ -1,0 +1,6 @@
+Ce soir, une grande soiree est organisee par votre club.@
+
+MINCE, il est deja 18h ! Vous commencez a vous preparer pour ne pas etre en retard. Comment allez-vous vous coiffer ?@
+Vous vous attachez les cheveux. #part1.txt%
+Vous ne vous attachez pas les cheveux. Il fait froid aujourd'hui. #part1.txt%
+
