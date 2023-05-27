@@ -37,6 +37,7 @@ Durant la partie:
 
 # Fonctionnement du programme
  ## lancer le programme 
+Ce deplacer dans le dossier ou ce trouve les fichiers a executer  ``` cd Projet-CYdventure```
 pour compliler : ```make```
 
   ## Histoire
