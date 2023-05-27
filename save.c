@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 #include"save.h"
 #include "filemanagement.h"
 
@@ -11,7 +12,7 @@ void saveGame(const char* partie) {
   file=fopen("save.txt","w");
      if (file == NULL) {
         printf("Could not open file.\n");
-        return 1;
+        exit(0);
     }
   fprintf(file, "%s", recovertext(partie));
   fclose(file);
