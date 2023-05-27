@@ -18,7 +18,8 @@ Le jeu que nous avons réalisé s'inspire d'un type de livres appelé "Livre don
 
 - Système de sauvegarde fonctionnel.
 # Problèmes rencontrés
-- On a eu du mal a trouver le format de fichier adapté a nos besoin 
+- On a eu du mal a trouver le format de fichier adapté a nos besoin mais nous avons reussis
+- Complication au niveau de la decrementation des stats du personnage.
 
 
 # Instructions
