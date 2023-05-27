@@ -15,9 +15,11 @@ void displayLbyL(const char *chaine) {
     }
 }
 
+char text[MAX_LENGTH];
+
 char* recovertext(const char* partie){
- FILE *fichier;
-    char text[MAX_LENGTH];
+ 	FILE *fichier;
+
     long size_files;
 
     // Ouvrir le fichier en mode lecture binaire
@@ -61,7 +63,8 @@ recovertext(partie);
   nbr=0;
   int i;
   i=0;
-strcpy(str,recovertext(partie));
+  recovertext(partie);
+	strcpy(str,text);
     
     const char deli[] = "@";  
     const char deli1[] = "#";
