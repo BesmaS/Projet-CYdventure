@@ -36,7 +36,8 @@ Durant la partie:
 - 2: Sauvegarder votre progression.
 
 # Fonctionnement du programme
-lancer le programme 
-´´´make´´´
+ ## lancer le programme 
+pour compliler : '''make
+
   ## Histoire
 Pour
