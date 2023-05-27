@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 #include "filemanagement.h"
 
 void displayLbyL(const char *chaine) {
@@ -22,7 +23,7 @@ char* recovertext(const char* partie){
     // Vérifier si le fichier est ouvert avec succès
     if (fichier == NULL) {
         printf("Could not open file.\n");
-        return 1;
+        exit(0);
     }
 
     // Obtenir la taille du fichier
@@ -33,7 +34,7 @@ char* recovertext(const char* partie){
     // Lire le contenu complet du fichier dans la variable 'text'
     if (size_files >= MAX_LENGTH) {
         printf("The file is too large to read in a variable.\n");
-        return 1;
+        exit(0);
     }
 
     fread(text, sizeof(char), size_files, fichier);
