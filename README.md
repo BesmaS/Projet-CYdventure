@@ -37,7 +37,7 @@ Durant la partie:
 
 # Fonctionnement du programme
  ## lancer le programme 
-pour compliler : '''make'''
+pour compliler : ```make```
 
   ## Histoire
 Pour
