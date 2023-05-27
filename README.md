@@ -36,5 +36,6 @@ Durant la partie:
 - 2: Sauvegarder votre progression.
 
 # Fonctionnement du programme
+lancer le programme 
   ## Histoire
 Pour
