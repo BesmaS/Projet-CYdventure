@@ -1,0 +1,5 @@
+Vous retourner au coeur de la fete.@
+
+Vous trouvez un  telephone.@
+Le prendre.#part8.txt%
+Ne pas y toucher.#fin6.txt%

@@ -36,7 +36,7 @@ int choix;
                 printf("Choix invalide. Veuillez entrer un nombre entre 1 et 3.\n");
                 break;
         }
-    } while (choix!= 3 || choix!=2 || choix!=1 );
+    } while (choix!= 3 && choix!=2 && choix!=1 || getchar()!='\n');
 
     return 0;
 }

@@ -80,7 +80,11 @@ strcpy(str,recovertext(partie));
   do{
     scanf("%d",&choice);
     
-  }while(choice!=0 && choice!=1 && choice!=2);  //test si la réponse est valide
+  }while(choice!=0 && choice!=1 && choice!=2 || getchar()!='\n');  //test si la réponse est valide
+  if(choice==2){
+      saveGame(partie);
+        exit(0);
+  }
   printf("\033[2J\033[H");
   displayPart(part[choice]);
 }
@@ -103,6 +107,7 @@ strcpy(str,recovertext(partie));
   token = strtok(NULL, "");// Obtenir le reste de la chaîne  en utilisant NULL comme délimiteur
 if(token==NULL){
     printf("\nFin");
+    exit(0);
   }
   else{
     recoverNextStep(partie);
