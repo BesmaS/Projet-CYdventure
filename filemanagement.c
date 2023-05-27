@@ -2,6 +2,7 @@
 #include<string.h>
 #include<unistd.h>
 #include<stdlib.h>
+#include"save.h"
 #include "filemanagement.h"
 
 void displayLbyL(const char *chaine) {
@@ -83,7 +84,7 @@ strcpy(str,recovertext(partie));
   do{
     scanf("%d",&choice);
     
-  }while(choice!=0 && choice!=1 && choice!=2 || getchar()!='\n');  //test si la réponse est valide
+  }while((choice!=0 && choice!=1 && choice!=2) || getchar()!='\n');  //test si la réponse est valide
   if(choice==2){
       saveGame(partie);
         exit(0);
